@@ -25,5 +25,5 @@ After running the profile on the NUnit test, does your test disappear from Test 
 
 Please also check if Code Coverage works on any of these.
 
-Confirm your finding by message me the result on twitter  [@OsirisTerje](https://twitter.com/osiristerje)
+Confirm your finding by message me the result on twitter  [@OsirisTerje](https://twitter.com/osiristerje) or [Facebook](https://www.facebook.com/Terje.Sandstrom) 
 
