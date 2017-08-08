@@ -2,10 +2,13 @@
 
 ## Environment
 
-Visual Studio 2017, latest build 15.2.26430.16
-NUnit 3.7.1
-NUnit3TestAdapter 3.8
-MSTest 1.1.18
+* Visual Studio 2017, latest build 15.2.26430.16 (Should be the same in earlier builds too)
+
+The solution downloads the following:
+
+* NUnit 3.7.1
+* NUnit3TestAdapter 3.8
+* MSTest 1.1.18
 
 
 ## Repro
@@ -20,6 +23,7 @@ One should work, the MSTest one (TestItMsTest), the other (TestIt) might not wor
 
 After running the profile on the NUnit test, does your test disappear from Test Explorer
 
-Confirm your finding by message me the result on twitter  [@OsirisTerje](https://twitter.com/osiristerje)
+Please also check if Code Coverage works on any of these.
 
+Confirm your finding by message me the result on twitter  [@OsirisTerje](https://twitter.com/osiristerje)
 
